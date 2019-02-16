@@ -21,3 +21,33 @@ The explanation has been added into code.
 # Detail explanation of other models are added in different repositories.
 
 # I added Simple negression, Decisoin tree regression, Ridge and Lasso regressions.
+
+# see below the result of the differnt models.
+
+LINEAR REGRESSION
+Mean Absolute Error: 7514.293659640891
+Mean Squared Error: 83502864.03257468
+Root Mean Squared Error: 9137.990152794797
+
+
+DECISION TREE REGRESSION
+Mean Absolute Error: 5277.153000000001
+Mean Squared Error: 49904185.29361
+Root Mean Squared Error: 7064.289440107193
+
+
+RIDGE REGRESSION
+Mean Absolute Error: 7514.293659640597
+Mean Squared Error: 83502864.03257713
+Root Mean Squared Error: 9137.990152794931
+
+LASSO REGRESSION
+Mean Absolute Error: 6742.955069952084
+Mean Squared Error: 69903733.50976606
+Root Mean Squared Error: 8360.845262876599
+
+
+From the observation it is found that Decision Tree is clear cut winner. But for Ridgo and Lasso, not all possible pemalties are tried.
+
+
+
